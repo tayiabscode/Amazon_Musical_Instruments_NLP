@@ -1,1 +1,1 @@
-# Amazon-Musical-Instruments-NLP
+# Amazon Musical Instruments NLP
